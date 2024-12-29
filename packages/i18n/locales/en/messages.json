@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
     "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "message": "Extension that hijacks Chrome's tab group system to be be much more useful for managing multiple projects"
   },
   "extensionName": {
     "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "message": "Huffy Chrome Window Manager"
   },
   "toggleTheme": {
     "message": "Toggle theme"
